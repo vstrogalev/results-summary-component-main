@@ -1,0 +1,60 @@
+@media (min-width: 600px) {
+    .page {
+        display: grid;
+        place-items: center;
+    }
+
+    .card {
+        max-width: 614px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        border-radius: 30px;
+        box-shadow: .5rem 1rem 3rem hsla(224, 30%, 27%, .2);
+    }
+
+    .card__vidget {
+        border-radius: 30px;
+    }
+
+    .card__vidget-title {
+        font-size: 20px;
+        margin-bottom: 34px;
+    }
+
+    .card__vidget-circle {
+        width: 166px;
+    }
+
+    .card__vidget-subtitle {
+        margin: 28px 0 16px;
+        font-size: 26px;
+    }
+
+    .card__summary {
+        padding: 32px 32px 40px;
+    }
+
+    .card__title {
+        font-size: 20px;
+    }
+
+    .card__score-list {
+        margin: 20px 0 0;
+        gap: 10px;
+    }
+
+    .card__score-desc {
+        margin: 0 0 0 11px;
+        font-size: 14px;
+    }
+
+    .card__score-value {
+        font-size: 16px;
+    }
+
+    .card__button {
+        margin-top: 32px;
+        height: 48px;
+        font-size: 15px;
+    }
+}
