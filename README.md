@@ -28,8 +28,8 @@ Also I didn't have experience with gradients.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vstrogalev/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://results-summary-component-sls.netlify.app)
+- Solution URL: [github](https://github.com/vstrogalev/results-summary-component-main)
+- Live Site URL: [netlify](https://results-summary-component-sls.netlify.app)
 
 ## My process
 
